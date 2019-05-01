@@ -1,22 +1,7 @@
 import React, { Component } from 'react';
-import Calculator from './calculator/Calculator.js';
 import ReactDOM from 'react-dom';
-
-class App extends Component {
-  render() {
-    return (
-      <div>
-        <Calculator></Calculator>
-      </div>
-
-);
-  }
-}
-
-export default App;
-
-
-
-
+import App from './App.js';
+import './App.css';
+import './index.css';
 
 ReactDOM.render(<App />, document.getElementById('root'));
