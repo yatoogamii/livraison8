@@ -5,7 +5,7 @@ import Button from './Button.js';
 export default class Calculator extends React.Component {
   render() {
     return (
-      <div>
+      <div className="App-calculator">
           <Input></Input>
           <Button value="AC"></Button>
           <Button value="Del"></Button>
