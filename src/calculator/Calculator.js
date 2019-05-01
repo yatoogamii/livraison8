@@ -23,7 +23,7 @@ export default class Calculator extends React.Component {
           <Button value="2"></Button>
           <Button value="3"></Button>
           <Button value="+"></Button>
-          <Button value="0"></Button>
+          <Button value="0" className="col-2"></Button>
           <Button value="."></Button>
           <Button value="="></Button>
         </div>
