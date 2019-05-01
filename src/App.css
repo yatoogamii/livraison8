@@ -1,13 +1,18 @@
 .App-calculator {
   display: grid;
-  width: 20rem;
-  height: 20rem;
+  width: 40rem;
+  height: 40rem;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(6, 1fr);
 }
 .App-calculator .App-calculator__input {
   grid-column: 1/5;
   width: 100%;
+  font-size: 2.5rem;
+  direction: rtl;
+}
+.App-calculator .App-calculator__button {
+  font-size: 2.5rem;
 }
 
 .col-2 {

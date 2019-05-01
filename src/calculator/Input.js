@@ -6,7 +6,7 @@ import '../App.css';
 export default class Input extends React.Component {
   render() {
     return (
-      <input type="number" value="" className="App-calculator__input">
+      <input className="App-calculator__input">
 
       </input>
     );
