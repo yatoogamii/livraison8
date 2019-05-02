@@ -14,8 +14,11 @@ export default class Calculator extends React.Component {
   }
 
   addValue(operator) {
-    console.log("test");
-    this.setState({inputValue: this.state.inputValue + operator})
+    if (this.state.inputValue === 'ERROR') {
+      this.setState({inputValue: ''})
+    } else {
+      this.setState({inputValue: this.state.inputValue + operator})
+    }
   }
 
   resetInput() {
