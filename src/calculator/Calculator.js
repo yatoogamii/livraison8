@@ -1,3 +1,5 @@
+/* eslint no-eval: 0 */
+
 import React from 'react';
 import Input from './Input.js';
 import Button from './Button.js';
@@ -26,8 +28,7 @@ export default class Calculator extends React.Component {
   }
 
   deleteLastValue() {
-    console.log(typeof(this.state.inputValue));
-    this.setState({inputvalue:  this.state.inputValue = this.state.inputValue.slice(0, -1) })
+    this.setState({inputValue: this.state.inputValue.slice(0, -1)})
   }
 
   showResult() {
