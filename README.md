@@ -1,3 +1,17 @@
+# Calculator
+
+## Critères qualité
+
+- React only => Zéro manipulation native DOM !!! 
+- Framework Material Design
+- Une calculatrice de base (opérations courantes + Modulo) 
+- Librairie Lodash autorisée
+## Used
+
+- Librairie React + Create react App
+- Framework Material UI
+- Axios with gist
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
