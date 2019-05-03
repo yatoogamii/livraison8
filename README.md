@@ -9,8 +9,7 @@
 ## Used
 
 - Librairie React + Create react App
-- Framework Material UI
-- Axios with gist
+- Framework 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
