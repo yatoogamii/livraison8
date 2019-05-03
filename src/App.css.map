@@ -1,7 +1,1 @@
-{
-"version": 3,
-"mappings": "AAAA,eAAgB;EACd,OAAO,EAAE,IAAI;EACb,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,KAAK;EACb,qBAAqB,EAAE,cAAc;EACrC,kBAAkB,EAAE,cAAc;EAElC,sCAAuB;IACrB,WAAW,EAAE,KAAK;IAClB,KAAK,EAAE,IAAI;IACX,SAAS,EAAE,MAAM;IACjB,UAAU,EAAE,KAAK;IACjB,KAAK,EAAE,OAAO;EAGhB,uCAAwB;IACtB,SAAS,EAAE,MAAM;IACjB,KAAK,EAAE,OAAO;;AAIlB,MAAO;EACL,WAAW,EAAE,KAAK",
-"sources": ["assets/stylesheets/main.scss"],
-"names": [],
-"file": "App.css"
-}
+{"version":3,"sourceRoot":"","sources":["assets/stylesheets/main.scss"],"names":[],"mappings":"AAAA;EACE;EACA;EACA;EACA;EACA;;AAEA;EACE;EACA;EACA;EACA;EACA;EACA;EACA;;AAGF;EAEE;;AAGF;EACE;EACA;;;AAIJ;EACE;EACA;;;AAEF;EACE;EACA;;;AAEF;EACE;;;AAGF;EACE","file":"App.css"}
