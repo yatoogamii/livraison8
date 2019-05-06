@@ -9,7 +9,7 @@
 ## Used
 
 - Librairie React + Create react App
-- Framework 
+- No css framework
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
