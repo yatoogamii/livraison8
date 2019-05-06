@@ -1,3 +1,6 @@
+
+![calculator](src/assets/img/calculator.png)
+
 # Calculator
 
 ## Critères qualité
